@@ -1,30 +1,56 @@
-## Hi there 👋 I'm Omkar!
+<h1 align="center">Hi 👋, I'm Omkar</h1>
+<h3 align="center">Engineer • Builder • AI Enthusiast</h3>
 
-Welcome to my GitHub profile — a hub for my projects, experiments, and learning journey in tech.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkarbhad&label=Profile%20views&color=0e75b6&style=flat" alt="omkarbhad" />
+</p>
 
-### 🚀 About Me
-- 🔭 I’m currently working on: AI tools, ML models, and creative coding projects.
-- 🌱 I’m currently learning: LLM fine-tuning, model quantization (GGUF), and full-stack dev.
-- 👯 I’m looking to collaborate on: Open-source AI projects and developer tooling.
-- 🤔 I’m looking for help with: Converting PyTorch models to GGUF, efficient inference, and vector search.
-- 💬 Ask me about: AI/ML, Python, Torch, Gradio, or anything open-source.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omkarbhad)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can turn complex AI problems into simple, beautiful tools.
-
-### 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, TypeScript
-- **Frameworks**: PyTorch, FastAPI, React
-- **Tools**: Git, Docker, VS Code, Gradio
-- **AI/ML**:
-  - **Deep Learning**: PyTorch, TensorFlow, Keras
-  - **NLP**: Hugging Face Transformers, SentencePiece, spaCy, NLTK
-  - **Model Optimization**: ONNX, GGUF, quantization, distillation
-  - **LLMs**: LangChain, LlamaIndex, OpenLLM, vLLM
-  - **Deployment**: Triton Inference Server, Ray, MLflow
-  - **Experiment Tracking**: Weights & Biases, Neptune.ai
+- 🔭 Currently building with **AI, LLMs, and real-world ML apps**
+- 🌱 Learning advanced techniques in **model quantization, vector search & LLM fine-tuning**
+- 🤝 Open to collaborating on **open-source, AI tools, dev infra**
+- 📫 Reach me: **omkarbhad@gmail.com**
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/omkarbhad" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/omkarbhad" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="30" />
+  </a>
+</p>
 
+---
+
+<h3 align="left">🧠 Languages & Tools I Work With:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">🧠 Advanced AI & ML Stack:</h3>
+
+- 🧠 **Deep Learning**: PyTorch, TensorFlow, Keras
+- 🧬 **NLP/LLMs**: Hugging Face Transformers, SentencePiece, LangChain, LlamaIndex, spaCy
+- 📦 **Model Optimization**: GGUF, ONNX, quantization, distillation
+- 🚀 **Serving/Infra**: FastAPI, Triton Inference Server, vLLM, Ray
+- 📊 **Experiment Tracking**: W&B, MLflow
+- 🔍 **Vector Search**: FAISS, ChromaDB
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhad&layout=compact" alt="Top Langs" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarbhad&show_icons=true&locale=en" alt="GitHub stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarbhad&" alt="GitHub streak" /></p>
