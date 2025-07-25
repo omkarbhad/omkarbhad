@@ -8,7 +8,7 @@
 - 🔭 Currently building with **AI, LLMs, and real-world ML apps**
 - 🌱 Learning advanced techniques in **model quantization, vector search & LLM fine-tuning**
 - 🤝 Open to collaborating on **open-source, AI tools, dev infra**
-- 📫 Reach me: **omkarbhad@gmail.com**
+- 📫 Reach me: **contact@omkarbhad.com**
 
 ---
 
