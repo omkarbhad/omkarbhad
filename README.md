@@ -23,9 +23,9 @@
 
 ## Background
 
-- 🏭 Shipped **production data pipelines** at Merkle — solved a 2-year data challenge in 15 days. Innovation Award from CSO.
+- 🤖 **Magnova.ai** — Building full-stack AI products (2024–Present)
 - 🎓 **M.S. Computer Science** — Cleveland State University (2025)
-- 🤖 Now building **full-stack AI products** at Magnova.ai
+- 🏭 **Merkle** — Shipped production data pipelines, Innovation Award from CSO (2021–2022)
 
 ---
 
