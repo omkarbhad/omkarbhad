@@ -47,9 +47,4 @@
 [![Website](https://img.shields.io/badge/-omkarbhad.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omkarbhad.com)
 [![Email](https://img.shields.io/badge/-contact@omkarbhad.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@omkarbhad.com)
 
----
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarbhad&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhad&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
