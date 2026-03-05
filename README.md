@@ -1,6 +1,6 @@
 ## Hi, I'm Omkar 👋
 
-📍 **San Francisco Bay Area** | 🤖 **AI Engineer** | ⚙️ **Mech Eng → CS → Full-Stack LLM Products**
+📍 **San Francisco Bay Area** | 🤖 **AI Engineer** | 🏗️ **Full-Stack LLM Products**
 
 > AI Engineer building full-stack LLM products at **[Magnova.ai](https://magnova.ai)**.  
 > M.S. Computer Science · Cleveland State University · 2025
@@ -23,7 +23,7 @@
 
 ## Background
 
-- 🔧 Started as a **mechanical engineer** — built race cars (All India Rank 2, SAE SUPRA national competition)
+- 🏎️ Led design & analysis for a national competition race car team — **All India Rank 2** (SAE SUPRA 2019)
 - 🏭 Shipped **production data pipelines** at Merkle — solved a 2-year data challenge in 15 days. Innovation Award from CSO.
 - 🎓 **M.S. Computer Science** — Cleveland State University (2025)
 - 🤖 Now building **full-stack AI products** at Magnova.ai
