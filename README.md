@@ -23,7 +23,6 @@
 
 ## Background
 
-- 🏎️ Led design & analysis for a national competition race car team — **All India Rank 2** (SAE SUPRA 2019)
 - 🏭 Shipped **production data pipelines** at Merkle — solved a 2-year data challenge in 15 days. Innovation Award from CSO.
 - 🎓 **M.S. Computer Science** — Cleveland State University (2025)
 - 🤖 Now building **full-stack AI products** at Magnova.ai
