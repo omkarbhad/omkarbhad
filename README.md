@@ -2,33 +2,22 @@
 
 📍 **San Francisco Bay Area** | 🤖 **AI Engineer** | ⚙️ **Mech Eng → CS → Full-Stack LLM Products**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-> AI Engineer building full-stack LLM products at **[Magnova.ai](https://magnova.ai)**.
+> AI Engineer building full-stack LLM products at **[Magnova.ai](https://magnova.ai)**.  
 > M.S. Computer Science · Cleveland State University · 2025
 
 ---
 
 ## What I've Built
 
-🔮 **Astrova** — Full-stack Vedic astrology platform (18K+ LOC). Custom 2,000-line astronomical calculation engine computing planetary positions, dashas, yogas, and compatibility scores. LLM-powered readings via OpenRouter. 17 API endpoints, admin panel, credit system, full-text search, chart SVG rendering.
+🔮 **Astrova** — Full-stack Vedic astrology platform (18K+ LOC). Custom 2,000-line astronomical calculation engine computing planetary positions, dashas, yogas, and compatibility scores. LLM-powered readings via OpenRouter. 17 API endpoints, admin panel, credit system, full-text search, SVG chart rendering.
 
-📊 **[Graphini](https://graphini.magnova.ai)** — Open-source diagram-as-code platform. Custom DSL parser → React Flow diagrams. Greedy DAG layout algorithms for cluster nesting. Mermaid + Graphviz import. Next.js + TypeScript.
+📊 **[Graphini](https://graphini.magnova.ai)** — Open-source diagram-as-code platform. Custom DSL parser → React Flow diagrams. Greedy DAG layout algorithms for cluster nesting. Mermaid + Graphviz import. Next.js + TypeScript. · **[Live →](https://graphini.magnova.ai)**
 
-🏙️ **CodeCity** — 3D code visualization tool. Transforms codebases into navigable visual representations. TypeScript, Turbo monorepo, Prisma, Vercel deployment.
+🏙️ **CodeCity** — 3D code visualization tool. Transforms codebases into navigable visual representations. TypeScript, Turbo monorepo, Prisma, Vercel.
 
-⭐ **LLM from Scratch** — Full transformer implementation in both PyTorch and JAX. Custom attention mechanisms, positional encodings, end-to-end training pipeline.
+⭐ **LLM from Scratch** — Full transformer implementation in PyTorch and JAX. Custom attention mechanisms, positional encodings, end-to-end training pipeline.
 
-🤖 **Multi-Agent Research System** — LangGraph-based Planner → Retriever → Generator → Verifier pipeline.
-
-🔐 **AI Safety Red-Teaming Framework** — Jailbreak detection, bias testing, safety regression. >90% precision across GPT-4, Claude, RoBERTa. Uncovered 17+ vulnerability clusters.
+🤖 **AgentForge** — LangGraph-based multi-agent research system. Planner → Retriever → Generator → Verifier pipeline with RAG and vector search. *(in progress)*
 
 ---
 
@@ -43,12 +32,12 @@
 
 ## Stack
 
-**Languages:** Python · TypeScript · SQL · Java · Bash
-**AI/ML:** LangGraph · LangChain · PyTorch · JAX · LoRA/PEFT · Hugging Face · W&B · MLflow
-**Frontend:** Next.js · React · React Flow · Tailwind · shadcn/ui
-**Backend:** FastAPI · OpenRouter · Prisma · Kafka · Django
-**Cloud:** AWS (EC2, S3, Lambda, SageMaker) · GCP · Docker · Kubernetes · Vercel
-**Databases:** PostgreSQL · MongoDB · Neo4j · Weaviate · Pinecone · Turso/SQLite
+**Languages:** Python · TypeScript · SQL · Bash  
+**AI/ML:** LangGraph · LangChain · PyTorch · JAX · LoRA/PEFT · Hugging Face · W&B · MLflow  
+**Frontend:** Next.js · React · React Flow · Tailwind · shadcn/ui  
+**Backend:** FastAPI · Prisma · Kafka · Django  
+**Cloud:** AWS (EC2, S3, Lambda, SageMaker) · GCP · Docker · Vercel  
+**Databases:** PostgreSQL · MongoDB · Weaviate · Pinecone · Turso  
 
 ---
 
